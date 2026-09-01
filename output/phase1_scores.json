@@ -1,0 +1,4284 @@
+[
+ {
+  "idx": 0,
+  "title": "Climelectric Aire acondicionado Valencia",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://www.climelectric.com/",
+  "domain": "climelectric.com",
+  "address": "Av. de la Plata, 43, Bajo, Quatre Carreres, 46013 València, Valencia, España",
+  "reviews": 596,
+  "excluded": null,
+  "score": 84.0,
+  "breakdown": {
+   "A_resenas": 35.0,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 1,
+  "title": "Climalem",
+  "category": "Empresa de climatización",
+  "website": "http://www.climalem.es/",
+  "domain": "climalem.es",
+  "address": "plaza peatonal (Atencion al público con cita previa, Carrer de Salabert, 34, Patraix, 46018 València, Valencia, España",
+  "reviews": 52,
+  "excluded": null,
+  "score": 72.3,
+  "breakdown": {
+   "A_resenas": 24.3,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 2,
+  "title": "Integral del Clima SL",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Montitxelvo, 24, Quatre Carreres, 46006 València, Valencia, España",
+  "reviews": 19,
+  "excluded": null,
+  "score": 50.4,
+  "breakdown": {
+   "A_resenas": 18.4,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 3,
+  "title": "CLIMAVITA - Soluciones de climatización",
+  "category": "Empresa de climatización",
+  "website": "https://www.climavita.es/",
+  "domain": "climavita.es",
+  "address": "Extramurs, 46001 València, Valencia, España",
+  "reviews": 27,
+  "excluded": null,
+  "score": 72.4,
+  "breakdown": {
+   "A_resenas": 20.4,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 4,
+  "title": "Aire Clim",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://aireclim.com/",
+  "domain": "aireclim.com",
+  "address": "C. de Bèrnia, 13, Quatre Carreres, 46013 València, Valencia, España",
+  "reviews": 186,
+  "excluded": null,
+  "score": 84.1,
+  "breakdown": {
+   "A_resenas": 32.1,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 5,
+  "title": "Grupo Aplus",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://www.grupoaplus.es/aire-acondicionado/aire-acondicionado-en-valencia/",
+  "domain": "grupoaplus.es",
+  "address": "Carrer de Martínez Aloy, 11, Extramurs, 46007 València, Valencia, España",
+  "reviews": 507,
+  "excluded": null,
+  "score": 92.0,
+  "breakdown": {
+   "A_resenas": 35.0,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 10.0
+  }
+ },
+ {
+  "idx": 6,
+  "title": "Fontanero ciudad vella valencia 24H",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Ciscar, L'Eixample, 46005 València, Valencia, España",
+  "reviews": 53,
+  "excluded": null,
+  "score": 55.5,
+  "breakdown": {
+   "A_resenas": 24.5,
+   "B_web": 0.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 7,
+  "title": "Clima Solution",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.climasolution.net/",
+  "domain": "climasolution.net",
+  "address": "Gran Via del Marqués del Túria, 49-1-1, Ensanche, 46005 València, Valencia, España",
+  "reviews": 140,
+  "excluded": null,
+  "score": 82.3,
+  "breakdown": {
+   "A_resenas": 30.3,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 8,
+  "title": "Midasat Clima.",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.midasatclima.com/",
+  "domain": "midasatclima.com",
+  "address": "Carrer de Molina del Palau, 26, bajo, Quatre Carreres, 46013 València, Valencia, España",
+  "reviews": 55,
+  "excluded": null,
+  "score": 75.7,
+  "breakdown": {
+   "A_resenas": 24.7,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 9,
+  "title": "Kiwoko. Mundo Animal",
+  "category": "Tienda de productos para mascotas",
+  "website": "https://tiendas.kiwoko.com/comunidad-valenciana/valencia/masalfasar/kiwoko-valencia-el-manar-71?utm_medium=maps&utm_source=google",
+  "domain": "tiendas.kiwoko.com",
+  "address": "El Manar, Carretera Cv-32 s/n P.C, Local 3, 46560 Massalfassar, Valencia, España",
+  "reviews": 1824,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 10,
+  "title": "Climatizacion Proair S.L.",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Camí Barranquet, 23, BAJO, 46133 Meliana, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 39.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 11,
+  "title": "Mairo Valenciana de Climatización",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.mairoclimatizacion.com/",
+  "domain": "mairoclimatizacion.com",
+  "address": "Carrer de l'Escultor Garcia Mas, 8, bajo, Campanar, 46015 València, Valencia, España",
+  "reviews": 109,
+  "excluded": null,
+  "score": 77.8,
+  "breakdown": {
+   "A_resenas": 28.8,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 12,
+  "title": "Layre",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.layre.es/",
+  "domain": "layre.es",
+  "address": "Carrer de Motilla del Palancar, 4, bajo, Rascaña, 46019 València, Valencia, España",
+  "reviews": 212,
+  "excluded": null,
+  "score": 84.9,
+  "breakdown": {
+   "A_resenas": 32.9,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 13,
+  "title": "REPUESTOS AIRE ACONDICIONADO",
+  "category": "Empresa de climatización",
+  "website": "https://repuestosaireacondicionado.es/",
+  "domain": "repuestosaireacondicionado.es",
+  "address": "",
+  "reviews": 46,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 14,
+  "title": "CLIMA SOLUCIONES 24 HORAS",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ d'en Borràs, 20, Ciutat Vella, 46003 València, Valencia, España",
+  "reviews": 8,
+  "excluded": null,
+  "score": 48.5,
+  "breakdown": {
+   "A_resenas": 13.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 15,
+  "title": "AEROTERMIA y PLACAS SOLARES Flavio Severini",
+  "category": "Empresa de climatización",
+  "website": "https://www.aeroclimapro.es/",
+  "domain": "aeroclimapro.es",
+  "address": "C/ del Pare Tena, 3, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 194,
+  "excluded": null,
+  "score": 85.3,
+  "breakdown": {
+   "A_resenas": 32.3,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "renovables"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 16,
+  "title": "AV Aerotermia Valencia | Instaladores",
+  "category": "Empresa de climatización",
+  "website": "https://valenciaaerotermia.es/",
+  "domain": "valenciaaerotermia.es",
+  "address": "Carrer dels Drets, 5, Ciutat Vella, 46001 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 58.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "renovables"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 17,
+  "title": "RefriValencia",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://refrivalencia.com/",
+  "domain": "refrivalencia.com",
+  "address": "Carrer d'Emili Baró, 45, Bajo izquierdo, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 46,
+  "excluded": null,
+  "score": 71.6,
+  "breakdown": {
+   "A_resenas": 23.6,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 18,
+  "title": "ArticTech Soluciones",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://sites.google.com/view/artic-tech-solutions/p%C3%A1gina-principal",
+  "domain": "sites.google.com",
+  "address": "C. de Carolina Álvarez, 24, Piso 3, Camins al Grau, 46023 València, Valencia, España",
+  "reviews": 14,
+  "excluded": null,
+  "score": 56.6,
+  "breakdown": {
+   "A_resenas": 16.6,
+   "B_web": 6.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 19,
+  "title": "Climelgas Servicio Técnico de Valencia",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.serviciotecnicodevalencia.es/",
+  "domain": "serviciotecnicodevalencia.es",
+  "address": "C/ de Molinell, 16, Bajo Izquierdo, La Zaidía, 46010 València, Valencia, España",
+  "reviews": 95,
+  "excluded": null,
+  "score": 83.0,
+  "breakdown": {
+   "A_resenas": 28.0,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 20,
+  "title": "stA+ Servicio Técnico de Electrodomésticos y Aire Acondicionado",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://serviciotecnico-aplus.com/",
+  "domain": "serviciotecnico-aplus.com",
+  "address": "Carrer de Santa Cruz de la Zarza, Algirós, 46021 València, Valencia, España",
+  "reviews": 124,
+  "excluded": null,
+  "score": 81.6,
+  "breakdown": {
+   "A_resenas": 29.6,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 21,
+  "title": "Tu Servicio Técnico",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://www.tuserviciotecnico.net/",
+  "domain": "tuserviciotecnico.net",
+  "address": "Gran Via del Marqués del Túria, 49, 1º-1ª, Ensanche, 46005 València, Valencia, España",
+  "reviews": 56,
+  "excluded": null,
+  "score": 75.8,
+  "breakdown": {
+   "A_resenas": 24.8,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 22,
+  "title": "Climafont",
+  "category": "Empresa de climatización",
+  "website": "https://climafont-foundation.lovable.app/",
+  "domain": "climafont-foundation.lovable.app",
+  "address": "Av. de Blasco Ibáñez, 102, Algirós, 46021 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 48.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 14.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 23,
+  "title": "Julian climatizacion",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Bailèn, 22, Extramurs, 46007 València, Valencia, España",
+  "reviews": 9,
+  "excluded": null,
+  "score": 40.1,
+  "breakdown": {
+   "A_resenas": 14.1,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 24,
+  "title": "Frigus Air S L",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.frigusair.com/",
+  "domain": "frigusair.com",
+  "address": "Cami Cases de Barcena, 43, 46131 Les Cases de Bàrcena, Valencia, España",
+  "reviews": 7,
+  "excluded": null,
+  "score": 63.8,
+  "breakdown": {
+   "A_resenas": 12.8,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 25,
+  "title": "Estracfrigus S L",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://estracfrigus.es/",
+  "domain": "estracfrigus.es",
+  "address": "Cami Cases de Barcena, 43, 46131 Les Cases de Bàrcena, Valencia, España",
+  "reviews": 52,
+  "excluded": null,
+  "score": 80.3,
+  "breakdown": {
+   "A_resenas": 24.3,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 9.0
+  }
+ },
+ {
+  "idx": 26,
+  "title": "PILSAR CLIMATIZACIÓN, S.L.",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Aiora, 30, bj, Patraix, 46018 València, Valencia, España",
+  "reviews": 20,
+  "excluded": null,
+  "score": 50.7,
+  "breakdown": {
+   "A_resenas": 18.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 27,
+  "title": "Climargas",
+  "category": "Empresa de climatización",
+  "website": "http://www.climargas.es/",
+  "domain": "climargas.es",
+  "address": "Carrer d'Anna, 9, BAJO, Rascaña, 46019 València, Valencia, España",
+  "reviews": 125,
+  "excluded": null,
+  "score": 82.7,
+  "breakdown": {
+   "A_resenas": 29.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 28,
+  "title": "El Clima | Expertos en Climatización",
+  "category": "Empresa de climatización",
+  "website": "https://sites.google.com/view/elclima-expertos-climatizacion",
+  "domain": "sites.google.com",
+  "address": "Av. del Dr. Peset Aleixandre, 71, Puerta 11, La Zaidía, 46009 València, Valencia, España",
+  "reviews": 14,
+  "excluded": null,
+  "score": 48.6,
+  "breakdown": {
+   "A_resenas": 16.6,
+   "B_web": 6.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 29,
+  "title": "ElectroClima Valencia",
+  "category": "Empresa de climatización",
+  "website": "https://electroclimavalencia.es/",
+  "domain": "electroclimavalencia.es",
+  "address": "Carrer de Borrull, 4, Extramurs, 46008 València, Valencia, España",
+  "reviews": 120,
+  "excluded": null,
+  "score": 78.4,
+  "breakdown": {
+   "A_resenas": 29.4,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 30,
+  "title": "Asociación Valenciana de Instaladores y Mantenedores de Climatización y Frio",
+  "category": "Asociación u organización",
+  "website": "",
+  "domain": "",
+  "address": "Av. de Blasco Ibáñez, 127, Algirós, 46022 València, España",
+  "reviews": 2,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 31,
+  "title": "Reparacion de Aire Acondicionado Valencia-DAVOFRIO",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://www.davofrio.com/valencia/",
+  "domain": "davofrio.com",
+  "address": "Av. de les Corts Valencianes, 58, Pobles de l'Oest, 46035 València, Valencia, España",
+  "reviews": 45,
+  "excluded": null,
+  "score": 78.5,
+  "breakdown": {
+   "A_resenas": 23.5,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "refrigeracion_comercial"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 32,
+  "title": "Servicio Tecnicos Valencia",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://www.serviciotecnicosvalencia.com/",
+  "domain": "serviciotecnicosvalencia.com",
+  "address": "",
+  "reviews": 1,
+  "excluded": null,
+  "score": 51.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 0.0
+  }
+ },
+ {
+  "idx": 33,
+  "title": "Climatron - Aire Acondicionado Valencia",
+  "category": "Empresa de climatización",
+  "website": "https://climatron.net/",
+  "domain": "climatron.net",
+  "address": "Carrer de Ciscar, 16, L'Eixample, 46005 València, Valencia, España",
+  "reviews": 41,
+  "excluded": null,
+  "score": 70.9,
+  "breakdown": {
+   "A_resenas": 22.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 34,
+  "title": "SC ELEKTRONIK",
+  "category": "Servicio de reparación de electrodomésticos",
+  "website": "",
+  "domain": "",
+  "address": "",
+  "reviews": 0,
+  "excluded": null,
+  "score": 17.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 8.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 35,
+  "title": "Energía Martín, S.L.",
+  "category": "Tienda aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. de Joaquim Ballester, 5, Campanar, 46009 València, Valencia, España",
+  "reviews": 122,
+  "excluded": null,
+  "score": 54.5,
+  "breakdown": {
+   "A_resenas": 29.5,
+   "B_web": 0.0,
+   "C_categoria": 11.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 10.0
+  }
+ },
+ {
+  "idx": 36,
+  "title": "Aires Shalom",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ d'Hipòlit Rovira, 12, Campanar, 46009 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 37,
+  "title": "Grupo Koal",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Av.de la Malva-Rosa, 112, Poblats Marítims, 46011 València, Valencia, España",
+  "reviews": 105,
+  "excluded": null,
+  "score": 62.6,
+  "breakdown": {
+   "A_resenas": 28.6,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 10.0
+  }
+ },
+ {
+  "idx": 38,
+  "title": "AACORE supply - Cámaras de Refrigeración y Equipos de Frío",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://hvacspareparts.com/es",
+  "domain": "hvacspareparts.com",
+  "address": "C/ de Vinaròs, 24, bajo local, Rascaña, 46020 València, Valencia, España",
+  "reviews": 61,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 39,
+  "title": "Ecoclimanova",
+  "category": "Empresa de climatización",
+  "website": "https://www.ecoclimanova.com/",
+  "domain": "ecoclimanova.com",
+  "address": "",
+  "reviews": 20,
+  "excluded": null,
+  "score": 63.7,
+  "breakdown": {
+   "A_resenas": 18.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 1.0
+  }
+ },
+ {
+  "idx": 40,
+  "title": "Grados Ingeniería y Climatización",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Bajo, Carrer del Poeta Altet, 3, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 24,
+  "excluded": null,
+  "score": 46.7,
+  "breakdown": {
+   "A_resenas": 19.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 41,
+  "title": "Novofrio SL",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.novofrio.com/",
+  "domain": "novofrio.com",
+  "address": "C. del Palleter, 89, Extramurs, 46008 València, Valencia, España",
+  "reviews": 11,
+  "excluded": null,
+  "score": 70.2,
+  "breakdown": {
+   "A_resenas": 15.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "refrigeracion_comercial"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 42,
+  "title": "Comont Climatización",
+  "category": "Empresa de climatización",
+  "website": "https://www.comont.es/",
+  "domain": "comont.es",
+  "address": "C/ de Gayano Lluch, 29, Rascanya, 46025 València, Valencia, España",
+  "reviews": 8,
+  "excluded": null,
+  "score": 59.5,
+  "breakdown": {
+   "A_resenas": 13.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 43,
+  "title": "ROLAFRI S.L.",
+  "category": "Empresa de climatización",
+  "website": "http://www.rolafri.com/",
+  "domain": "rolafri.com",
+  "address": "C/ de Màlaga, 13, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 13,
+  "excluded": null,
+  "score": 67.2,
+  "breakdown": {
+   "A_resenas": 16.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 44,
+  "title": "Temperia",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Masquefa, 68, Pta 1, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 9,
+  "excluded": null,
+  "score": 40.1,
+  "breakdown": {
+   "A_resenas": 14.1,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 45,
+  "title": "Rafael Cervera Climatización",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://www.cerveraclima.com/",
+  "domain": "cerveraclima.com",
+  "address": "Pl. del Poeta Salvador Rueda, 6, Campanar, 46009 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 54.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 46,
+  "title": "electroclima",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Sant Vicent de Paül, 20, Rascanya, 46019 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 37.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 47,
+  "title": "Airtec",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.airtec-ins.com/",
+  "domain": "airtec-ins.com",
+  "address": "Carrer de Marcel·lí Giner, 23, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 2,
+  "excluded": null,
+  "score": 52.7,
+  "breakdown": {
+   "A_resenas": 6.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 48,
+  "title": "Clic Reparación",
+  "category": "Empresa de climatización",
+  "website": "https://clicreparacion.com/valencia/",
+  "domain": "clicreparacion.com",
+  "address": "Carrer d'Azcárraga, 24, Extramurs, 46008 València, Valencia, España",
+  "reviews": 6,
+  "excluded": null,
+  "score": 61.9,
+  "breakdown": {
+   "A_resenas": 11.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 49,
+  "title": "Técnicos Fernando Valencia",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://tecnicosvalencia.es/",
+  "domain": "tecnicosvalencia.es",
+  "address": "C/ del Riu Nervión, 19, Benicalap, 46025 València, Valencia, España",
+  "reviews": 123,
+  "excluded": null,
+  "score": 81.6,
+  "breakdown": {
+   "A_resenas": 29.6,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 50,
+  "title": "Forza Val",
+  "category": "Tienda aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Pintor Matarana, 23, bajo, Benicalap, 46025 València, Valencia, España",
+  "reviews": 7,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 51,
+  "title": "Valenciana De Frío Y Calor",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://valfrica.es/",
+  "domain": "valfrica.es",
+  "address": "C/ del Clariano, 44, Algirós, 46021 València, Valencia, España",
+  "reviews": 10,
+  "excluded": null,
+  "score": 60.7,
+  "breakdown": {
+   "A_resenas": 14.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 52,
+  "title": "Calle del Gigante servicio de acondicionamiento",
+  "category": "Tienda aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Gegant, 15, Ciutat Vella, 46001 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 17.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 11.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 53,
+  "title": "Viventia | Servicios Integrales",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://www.viventia.eu/",
+  "domain": "viventia.eu",
+  "address": "C/ del Marqués de Montortal, 77, Rascanya, 46019 València, Valencia, España",
+  "reviews": 90,
+  "excluded": null,
+  "score": 80.7,
+  "breakdown": {
+   "A_resenas": 27.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 9.0
+  }
+ },
+ {
+  "idx": 54,
+  "title": "AIREON VENTA E INSTALACIONES SL",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Av. del Primat Reig, 129, Pta D, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 31.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 55,
+  "title": "Fricli S L",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.fricli.es/",
+  "domain": "fricli.es",
+  "address": "Avinguda de la Constitució, 12, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 1,
+  "excluded": null,
+  "score": 55.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 56,
+  "title": "Aire Acondicionado Proman",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://tecnicoaireacondicionadovalencia.es/",
+  "domain": "tecnicoaireacondicionadovalencia.es",
+  "address": "C. Pintor Benedito, 11, Extramurs, 46007 València, Valencia, España",
+  "reviews": 6,
+  "excluded": null,
+  "score": 60.9,
+  "breakdown": {
+   "A_resenas": 11.9,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 57,
+  "title": "SOLCLIME | Soluciones de Climatización y Energía",
+  "category": "Oficinas de empresa",
+  "website": "https://solclime.net/",
+  "domain": "solclime.net",
+  "address": "Carrer del Poeta Monmeneu, 12, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 41.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 20.0,
+   "C_categoria": 10.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 58,
+  "title": "Climatización Boils S L",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Reus, 16, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 6,
+  "excluded": null,
+  "score": 42.9,
+  "breakdown": {
+   "A_resenas": 11.9,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 59,
+  "title": "Calefacción, Climatización y Energía Solar • Termat",
+  "category": "Empresa de climatización",
+  "website": "https://www.grupoavalco.com/termat/",
+  "domain": "grupoavalco.com",
+  "address": "Edificio Trade Center, Carrer del Professor Beltrán Báguena, 4, Ofi 207, Campanar, 46009 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 62.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion",
+    "renovables"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 60,
+  "title": "Iberair Valencia",
+  "category": "Contratista",
+  "website": "http://www.iberairvalencia.com/contacto/",
+  "domain": "iberairvalencia.com",
+  "address": "C/ Farmacèutic, C. Rafael Company, 10, Benicalap, 46025 València, Valencia, España",
+  "reviews": 14,
+  "excluded": null,
+  "score": 48.6,
+  "breakdown": {
+   "A_resenas": 16.6,
+   "B_web": 20.0,
+   "C_categoria": 10.0,
+   "D_servicios": 0.0,
+   "_servicios_detectados": [],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 61,
+  "title": "INSTALACIONES Y MANTENIMIENTOS TERVAL SL",
+  "category": "Instalador de gas",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Sant Roc, 48, Benicalap, 46015 València, Valencia, España",
+  "reviews": 11,
+  "excluded": null,
+  "score": 47.2,
+  "breakdown": {
+   "A_resenas": 15.2,
+   "B_web": 0.0,
+   "C_categoria": 13.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 62,
+  "title": "Climacoold Aire acondicionado",
+  "category": "Empresa de climatización",
+  "website": "https://es.wallapop.com/app/catalog/published",
+  "domain": "es.wallapop.com",
+  "address": "Pl. de Joan de Vila-rasa, 46001, Extramurs, 46001 València, Valencia, España",
+  "reviews": 1,
+  "excluded": null,
+  "score": 36.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 6.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 63,
+  "title": "Optimair S L",
+  "category": "Empresa de climatización",
+  "website": "http://www.optimair.es/",
+  "domain": "optimair.es",
+  "address": "Plaça del Diputat Lluís Lucía, 17, Campanar, 46015 València, Valencia, España",
+  "reviews": 12,
+  "excluded": null,
+  "score": 66.7,
+  "breakdown": {
+   "A_resenas": 15.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 64,
+  "title": "Electricidad Climastar, S.L.",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C. dels Plàtans, 5, Benicalap, 46025 València, Valencia, España",
+  "reviews": 2,
+  "excluded": null,
+  "score": 37.7,
+  "breakdown": {
+   "A_resenas": 6.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 65,
+  "title": "AC Climatización Fundada 2005 SL",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. Emili Camps I Gallego, 5, Benicalap, 46025 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 31.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 66,
+  "title": "IDC ENERGIA",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Pare Palau i Quer, 26, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 10,
+  "excluded": null,
+  "score": 44.7,
+  "breakdown": {
+   "A_resenas": 14.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "renovables"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 67,
+  "title": "Técnico frigorista y climatizacion A.I.A.",
+  "category": "Empresa de climatización",
+  "website": "https://www.ilichclima.com/",
+  "domain": "ilichclima.com",
+  "address": "C. del Picaio, 4, Benicalap, 46025 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 46.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 68,
+  "title": "Térmica Valenciana",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.termicavalenciana.es/",
+  "domain": "termicavalenciana.es",
+  "address": "Carrer del Poeta Monmeneu, 12, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 2,
+  "excluded": null,
+  "score": 52.7,
+  "breakdown": {
+   "A_resenas": 6.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 69,
+  "title": "Pertegás Ventilación",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.pertegas.com/",
+  "domain": "pertegas.com",
+  "address": "Carrer de la Murta, 26, bajo, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 11,
+  "excluded": null,
+  "score": 69.2,
+  "breakdown": {
+   "A_resenas": 15.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion",
+    "ventilacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 70,
+  "title": "Condairval",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. de Marie Curie (Científica), 6, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 71,
+  "title": "Topclima, S.L.",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.topclima.com/",
+  "domain": "topclima.com",
+  "address": "Carrer de Daniel Balaciart, 6, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 59.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 72,
+  "title": "Electro Aire SL",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Av. de Burjassot, 105, Benicalap, 46035 València, Valencia, España",
+  "reviews": 33,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 73,
+  "title": "SEI Energía",
+  "category": "Tienda aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Soledad Doménech, 18, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 5,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 74,
+  "title": "José Manuel Adrián Benavides",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Metge Ramón Tarazona, 3, Campanar, 46015 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 75,
+  "title": "ELECTRICIDAD Y AIRE ACONDICIONADO ELECTROSERGAR",
+  "category": "",
+  "website": "",
+  "domain": "",
+  "address": "C/ de la Serra d'Agullent, 3, Benicalap, 46015 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 14.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 8.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 76,
+  "title": "Taller",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Conchita Piquer, 7, Campanar, 46035 València, Valencia, España",
+  "reviews": 20,
+  "excluded": null,
+  "score": 45.7,
+  "breakdown": {
+   "A_resenas": 18.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 77,
+  "title": "Apartamento estudio 'Estudio 4 Centro Histrico Valencia' con jardín privado y aire acondicionado",
+  "category": "Alquiler de vacaciones",
+  "website": "https://www.holidu.de/d/56542435?ref_source=google_vr&utm_source=google_vr_eb",
+  "domain": "holidu.de",
+  "address": "Ciutat Vella, 46003 Valencia, España",
+  "reviews": 13,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 78,
+  "title": "Apartamento Valencia-living con balcón, aire acondicionado y Wi-Fi",
+  "category": "Departamento",
+  "website": "https://www.holidu.de/d/46740070?ref_source=google_vr&utm_source=google_vr_holidu",
+  "domain": "holidu.de",
+  "address": "El Llano del Real, 46021 Valencia, España",
+  "reviews": 95,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 79,
+  "title": "Reparacion Calderas Valencia",
+  "category": "Empresa de climatización",
+  "website": "https://reparacioncalderasvalencia.eu/",
+  "domain": "reparacioncalderasvalencia.eu",
+  "address": "C/ de Pere Cabanes, 83, Rascanya, 46019 València, Valencia, España",
+  "reviews": 4,
+  "excluded": null,
+  "score": 63.9,
+  "breakdown": {
+   "A_resenas": 9.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 80,
+  "title": "Lumar Electrotecnia",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Carrer 9 d'Octubre, 8, 46016 Tavernes Blanques, Valencia, España",
+  "reviews": 1,
+  "excluded": null,
+  "score": 30.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 81,
+  "title": "Prodetecno Ingeniería Energética, SL",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Cora Raga, 12, bajo, Benicalap, 46025 València, Valencia, España",
+  "reviews": 4,
+  "excluded": null,
+  "score": 40.9,
+  "breakdown": {
+   "A_resenas": 9.9,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 82,
+  "title": "BAXI - Delegación comercial Sur",
+  "category": "Empresa de climatización",
+  "website": "http://www.baxi.es/",
+  "domain": "baxi.es",
+  "address": "Carrer del Professor Beltrán Báguena, 5, Campanar, 46009 València, Valencia, España",
+  "reviews": 11,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 83,
+  "title": "Instalaciones Gaujot, S.L.",
+  "category": "Electricista",
+  "website": "https://instalacionesgaujot.es/",
+  "domain": "instalacionesgaujot.es",
+  "address": "Carrer d'Almiserà, 5, Benicalap, 46025 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 48.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 9.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 84,
+  "title": "ISERTEK SOLUTIONS S.L.",
+  "category": "Empresa de climatización",
+  "website": "https://isertek.es/",
+  "domain": "isertek.es",
+  "address": "Carrer de Juan Castelló, 2, Bj - Izq, La Zaidía, 46009 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 59.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 85,
+  "title": "Clima Oasis",
+  "category": "Empresa de climatización",
+  "website": "http://sites.google.com/view/climaoasis/inicio?authuser=1",
+  "domain": "sites.google.com",
+  "address": "C/ de Miguel Servet, 7, Benicalap, 46015 València, Valencia, España",
+  "reviews": 7,
+  "excluded": null,
+  "score": 44.8,
+  "breakdown": {
+   "A_resenas": 12.8,
+   "B_web": 6.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 86,
+  "title": "SERVICIO TECNICO OFICIAL FERROLI - COINTRA",
+  "category": "Empresa de climatización",
+  "website": "https://cointravalencia.com/",
+  "domain": "cointravalencia.com",
+  "address": "Av. General Aviles, 23, Campanar, 46015 València, Valencia, España",
+  "reviews": 75,
+  "excluded": null,
+  "score": 82.6,
+  "breakdown": {
+   "A_resenas": 26.6,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 87,
+  "title": "Airestar Valencia",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Lugre, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 88,
+  "title": "Reparadores de Maquinaria Hostelería",
+  "category": "Empresa de suministros industriales",
+  "website": "",
+  "domain": "",
+  "address": "C/ de José Grollo, 13, BAJO, Benicalap, 46025 València, Valencia, España",
+  "reviews": 8,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 89,
+  "title": "Técnico Lavadoras Valencia Haier Hisense Beko",
+  "category": "Servicio de reparación de electrodomésticos",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Barraix, Benicalap, 46015 València, Valencia, España",
+  "reviews": 11,
+  "excluded": null,
+  "score": 29.2,
+  "breakdown": {
+   "A_resenas": 15.2,
+   "B_web": 0.0,
+   "C_categoria": 8.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 90,
+  "title": "Taller mecanico 24 horas S.N",
+  "category": "Taller mecánico",
+  "website": "",
+  "domain": "",
+  "address": "C. de Carles Cortina, 23, Benicalap, 46025 València, Valencia, España",
+  "reviews": 309,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 91,
+  "title": "Tecnisan",
+  "category": "Servicio de reparación de televisores",
+  "website": "https://www.sattecnisan.es//",
+  "domain": "sattecnisan.es",
+  "address": "Camí de Montcada, 90, Rascanya, 46019 València, Valencia, España",
+  "reviews": 166,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 92,
+  "title": "Instalaciones Navarro Hermanos S.L.",
+  "category": "Empresa de calefacción",
+  "website": "http://www.instalacionesnavarrohnos.es/",
+  "domain": "instalacionesnavarrohnos.es",
+  "address": "Carrer de Peníscola, 25, bajo derecha, Rascaña, 46019 València, Valencia, España",
+  "reviews": 51,
+  "excluded": null,
+  "score": 78.2,
+  "breakdown": {
+   "A_resenas": 24.2,
+   "B_web": 20.0,
+   "C_categoria": 17.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion"
+   ],
+   "E_estructura": 9.0
+  }
+ },
+ {
+  "idx": 93,
+  "title": "Levantina de Suministros Frigoríficos S.A.L.",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. Arzobispo Fabian i Fuero, 13, La Zaidía, 46009 València, Valencia, España",
+  "reviews": 23,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 94,
+  "title": "Frigols Mantenimiento",
+  "category": "Fontanero",
+  "website": "http://www.frigols.com/",
+  "domain": "frigols.com",
+  "address": "Av. de Valladolid, 42, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 6,
+  "excluded": null,
+  "score": 48.9,
+  "breakdown": {
+   "A_resenas": 11.9,
+   "B_web": 20.0,
+   "C_categoria": 11.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 95,
+  "title": "Servicio Técnico Mitsubishi Electric Daykin",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Pl. de la Legió Espanyola, 11, El Pla del Real, 46010 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 37.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 96,
+  "title": "J.Gramuntell S.L.",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Agullent, 9, Benicalap, 46025 València, Valencia, España",
+  "reviews": 8,
+  "excluded": null,
+  "score": 44.5,
+  "breakdown": {
+   "A_resenas": 13.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 97,
+  "title": "SUMART - Calderas, calentadores y aire acondicionado. Instalación incluida",
+  "category": "Tienda de calderas",
+  "website": "http://www.sumartvalencia.com/",
+  "domain": "sumartvalencia.com",
+  "address": "C/ de Guillem de Castro, 113, bajo izquierda , Extramurs, Extramurs, 46008 València, Valencia, España",
+  "reviews": 35,
+  "excluded": null,
+  "score": 65.0,
+  "breakdown": {
+   "A_resenas": 22.0,
+   "B_web": 20.0,
+   "C_categoria": 12.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 98,
+  "title": "ApartUP Reina Deluxe. WiFi y Aire acondicionado",
+  "category": "Departamento",
+  "website": "https://br.bluepillow.com/search/65cb85ce3e6d928972f90695?dest=bpex&cat=Apartment&lat=39.47402&lng=-0.37498&language=pt",
+  "domain": "br.bluepillow.com",
+  "address": "Ciutat Vella, 46003 Valencia, España",
+  "reviews": 3,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 99,
+  "title": "Estudio 'Mendoza' con balcón, Wi-Fi y aire acondicionado",
+  "category": "Departamento",
+  "website": "https://www.holidu.de/d/51085327?ref_source=google_vr&utm_source=google_vr_holidu",
+  "domain": "holidu.de",
+  "address": "Ciutat Vella, 46001 Valencia, España",
+  "reviews": 19,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 100,
+  "title": "Euronics Bazar Valencia",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.euronics.es/tiendas/euronics-bazar-valencia.html?utm_source=G&utm_medium=&utm_campaign=google-local",
+  "domain": "euronics.es",
+  "address": "Av. del Primat Reig, 26, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 147,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 101,
+  "title": "Romedtec",
+  "category": "Empresa de suministros industriales",
+  "website": "https://www.romedtec.com/",
+  "domain": "romedtec.com",
+  "address": "Avinguda de la Constitució, 216, Rascanya, 46019 València, Valencia, España",
+  "reviews": 0,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 102,
+  "title": "Valfrimatic S.C",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. del N, 24, Extramurs, 46008 València, Valencia, España",
+  "reviews": 2,
+  "excluded": null,
+  "score": 37.7,
+  "breakdown": {
+   "A_resenas": 6.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 103,
+  "title": "Milar Ramón Llosá",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.milar.es/tiendas/milar-ramon-llosa.html?utm_source=G&utm_medium=&utm_campaign=google-local",
+  "domain": "milar.es",
+  "address": "Av. de Blasco Ibáñez, 31, El Pla del Real, 46010 València, Valencia, España",
+  "reviews": 147,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 104,
+  "title": "Euronics Calle Alboraya",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.euronics.es/tiendas/euronics-calle-alboraya.html?utm_source=G&utm_medium=&utm_campaign=google-local",
+  "domain": "euronics.es",
+  "address": "C/ d'Alboraia, 31, La Saïdia, 46010 València, Valencia, España",
+  "reviews": 238,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 105,
+  "title": "Naria Forum",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://nariaforum.es/",
+  "domain": "nariaforum.es",
+  "address": "Carrer de Gil Roger, 6, Campanar, 46009 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 54.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 106,
+  "title": "Fontanería Antonio Cerdán",
+  "category": "Fontanero",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Leandro de Saralegui, 9, Algirós, 46021 València, Valencia, España",
+  "reviews": 153,
+  "excluded": null,
+  "score": 46.9,
+  "breakdown": {
+   "A_resenas": 30.9,
+   "B_web": 0.0,
+   "C_categoria": 11.0,
+   "D_servicios": 0.0,
+   "_servicios_detectados": [],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 107,
+  "title": "SERVICIO JUNKERS VALENCIA",
+  "category": "Servicio de reparación de electrodomésticos",
+  "website": "https://www.serviciojunkers.es/",
+  "domain": "serviciojunkers.es",
+  "address": "Passatge Dr. Bartual Moret, 6, El Pla del Real, 46010 València, Valencia, España",
+  "reviews": 47,
+  "excluded": null,
+  "score": 63.7,
+  "breakdown": {
+   "A_resenas": 23.7,
+   "B_web": 20.0,
+   "C_categoria": 8.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 108,
+  "title": "Fonclima Martinez S.L.",
+  "category": "Fontanero",
+  "website": "",
+  "domain": "",
+  "address": "D'Enric Navarro, 38, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 9,
+  "excluded": null,
+  "score": 36.1,
+  "breakdown": {
+   "A_resenas": 14.1,
+   "B_web": 0.0,
+   "C_categoria": 11.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 109,
+  "title": "REMLE",
+  "category": "Proveedor de repuestos de electrodomésticos",
+  "website": "https://www.remle.com/es/",
+  "domain": "remle.com",
+  "address": "C/ d'Alboraia, 69, Benimaclet, 46010 València, Valencia, España",
+  "reviews": 199,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 110,
+  "title": "Carbeal",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.carbealinstalaciones.es/",
+  "domain": "carbealinstalaciones.es",
+  "address": "C/ de Fra Pere Vives, 25, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 6,
+  "excluded": null,
+  "score": 60.9,
+  "breakdown": {
+   "A_resenas": 11.9,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 111,
+  "title": "Ferriemoción: Taller Mecánico en Valencia",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://ferriemocion.com/",
+  "domain": "ferriemocion.com",
+  "address": "C/ de Dolores Marqués, 40, 42, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 584,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 112,
+  "title": "Talleres Soriano",
+  "category": "Taller de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Pare Damià, 6, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 222,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 113,
+  "title": "Taller mecánico en Valencia | Pascual Glover S.C.",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://tallermecanicopascualglover.com/",
+  "domain": "tallermecanicopascualglover.com",
+  "address": "Carrer dels Poetes Anònims, 2, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 157,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 114,
+  "title": "Talleres cheema",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Riu Tajo, 26, Poblats Marítims, 46011 València, Valencia, España",
+  "reviews": 5,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 115,
+  "title": "Sonivac S.L.u",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.sonivac.com/",
+  "domain": "sonivac.com",
+  "address": "Av. del Primat Reig, 43, Rascanya, 46019 València, Valencia, España",
+  "reviews": 208,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 116,
+  "title": "Talleres Ferrer",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://care.grupauto.es/care-center-talleres-ferrer",
+  "domain": "care.grupauto.es",
+  "address": "C/ de Lepant, 22, Extramurs, 46008 València, Valencia, España",
+  "reviews": 63,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 117,
+  "title": "Feu Vert",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://www.feuvert.es/",
+  "domain": "feuvert.es",
+  "address": "Av. de Manuel de Falla, 13, C.C. Carrefour, Campanar, 46015 València, Valencia, España",
+  "reviews": 1364,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 118,
+  "title": "Avtoservice Malvarrosa",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Av.de la Malva-Rosa, 117, Poblats Marítims, 46011 València, Valencia, España",
+  "reviews": 64,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 119,
+  "title": "RAF ️ Taller Excelente PLANCHA • PINTURA • MECÁNICA",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.talleresraf.com/",
+  "domain": "talleresraf.com",
+  "address": "Av. del Primat Reig, 39, Rascanya, 46019 València, Valencia, España",
+  "reviews": 117,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 120,
+  "title": "TALLERES GRUPO MONTERO | Electromecánica",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Comte de Lumiares, 26, Rascanya, 46019 València, Valencia, España",
+  "reviews": 76,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 121,
+  "title": "RFC | Reformas Integrales en Valencia",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://rfcreformas.es/",
+  "domain": "rfcreformas.es",
+  "address": "Carrer de la Ciutat de Mula, 14, Pta 12, El Llano del Real, 46021 València, Valencia, España",
+  "reviews": 19,
+  "excluded": null,
+  "score": 70.4,
+  "breakdown": {
+   "A_resenas": 18.4,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 122,
+  "title": "Talleres To-Gar, S.L.",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.to-gar.com/",
+  "domain": "to-gar.com",
+  "address": "Pl. del Poeta Salvador Rueda, 7, Campanar, 46009 València, Valencia, España",
+  "reviews": 124,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 123,
+  "title": "Talleres Ando",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Agustín Lara, 11, Rascanya, 46019 València, Valencia, España",
+  "reviews": 18,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 124,
+  "title": "TALLER PRIMADO",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.autolavadosprimado.es/",
+  "domain": "autolavadosprimado.es",
+  "address": "Carrer de la Guàrdia Civil, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 8,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 125,
+  "title": "Bosch Car Service - Automocion Nou Campanar",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://anctaller.es/",
+  "domain": "anctaller.es",
+  "address": "Eric Valor I Vives, Av. del Mestre Rodrigo, 37, Campanar, 46015 València, Valencia, España",
+  "reviews": 124,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 126,
+  "title": "TALLER BZ",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Màlaga, 11, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 16,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 127,
+  "title": "HELVETIA MOTOR",
+  "category": "Taller mecánico",
+  "website": "",
+  "domain": "",
+  "address": "Plaça del Músic Espí, 11, bajo, Rascaña, 46019 València, Valencia, España",
+  "reviews": 20,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 128,
+  "title": "Cga Car Service Autos Febomar S.L.",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Emili Panach i Ramos \"Milo\", s/n, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 19,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 129,
+  "title": "Talleres YuriCar Valencia",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.talleresyuricar.com/",
+  "domain": "talleresyuricar.com",
+  "address": "Avinguda de la Constitució, 128, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 187,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 130,
+  "title": "Taller Mecánico Autopower",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://talleresautopower.com/",
+  "domain": "talleresautopower.com",
+  "address": "Carrer de Portaceli, 27, Rascanya, 46019 Rascaña, Valencia, España",
+  "reviews": 109,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 131,
+  "title": "Talleres Serpis",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Serpis, 11, Algirós, 46021 València, Valencia, España",
+  "reviews": 58,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 132,
+  "title": "Oficina Endesa Intecas De Gas",
+  "category": "Compañía del gas",
+  "website": "https://citaprevia.endesa.es/citaprevia/?codOficina=XVA051&gmb=XVA051%3Apuntoe%3Aowm%3Aeees%3Acap%3Aeng%3Ana%3Aorg%3Aropo%3Ana%3Ana%3Avalencia%3Actl%3Ana%3Ana%3Acitaprevia%3Ana%3Ana%3Ana%3Ana%3A%3Amtd%3A%3A%3A%3A",
+  "domain": "citaprevia.endesa.es",
+  "address": "Carrer del Dr. Peset Cervera, 19, Bajo, Extramurs, 46008 València, Valencia, España",
+  "reviews": 214,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 133,
+  "title": "Midas VALENCIA/Calle Maestro Rodrigo",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://www.midas.es/talleres-coche-moto-midas/comunidad-valenciana/valencia/valencia/valenciacalle-maestro-rodrigo_3631",
+  "domain": "midas.es",
+  "address": "Av. del Mestre Rodrigo, 37, Campanar, 46015 València, Valencia, España",
+  "reviews": 353,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 134,
+  "title": "Taller 804",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de la Ciutat de Mula, 21, Bajo, El Llano del Real, 46021 València, Valencia, España",
+  "reviews": 105,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 135,
+  "title": "Talleres Benicalap",
+  "category": "Taller de automóviles",
+  "website": "http://www.instagram.com/talleresbenicalap",
+  "domain": "instagram.com",
+  "address": "C/ de José Grollo, 117, Benicalap, 46025 València, Valencia, España",
+  "reviews": 231,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 136,
+  "title": "Laura Ramos Pardo",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de la Rbla., 12, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 137,
+  "title": "Auténtico Central Encantador/Wifi/Aire Acondicionado",
+  "category": "Departamento",
+  "website": "https://valencia.blue/listing/en/607148",
+  "domain": "valencia.blue",
+  "address": "Ciutat Vella, 46001 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 138,
+  "title": "Milar Muñoz",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.milar.es/tiendas/milar-munoz.html?utm_source=G&utm_medium=&utm_campaign=google-local",
+  "domain": "milar.es",
+  "address": "Carrer de Enrique Navarro, 28, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 265,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 139,
+  "title": "Milar Ramón Llosá Muebles de Cocina",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.milar.es/tiendas/milar-ramon-llosa-valencia.html?utm_source=G&utm_medium=&utm_campaign=google-local",
+  "domain": "milar.es",
+  "address": "Carrer del Cronista Almela i Vives, 2, El Pla del Real, 46010 València, Valencia, España",
+  "reviews": 110,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 140,
+  "title": "Hiper Antena Valencia",
+  "category": "Servicio de antenas",
+  "website": "http://hiperantena.com/",
+  "domain": "hiperantena.com",
+  "address": "C/ de Vicent Canet, 1, Benicalap, 46025 València, Valencia, España",
+  "reviews": 60,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 141,
+  "title": "Loft Luminoso | Adaptado | Smart TV | Aire acondicionado | 2 personas",
+  "category": "Departamento",
+  "website": "https://irpropertymanagement.holidayfuture.com/listings/558339?googleVR=1&utm_source=google&utm_medium=vacation_rentals",
+  "domain": "irpropertymanagement.holidayfuture.com",
+  "address": "Rascaña, 46019 Valencia, España",
+  "reviews": 4,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 142,
+  "title": "Saneamientos Orts Showroom",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.saneamientosorts.com/",
+  "domain": "saneamientosorts.com",
+  "address": "Avinguda de la Constitució, 30, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 290,
+  "excluded": null,
+  "score": 88.8,
+  "breakdown": {
+   "A_resenas": 34.8,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 10.0
+  }
+ },
+ {
+  "idx": 143,
+  "title": "Apartamento 'Cristina Center' con balcón, Wi-Fi y aire acondicionado",
+  "category": "Departamento",
+  "website": "https://www.holidu.de/d/55302806?ref_source=google_vr&utm_source=google_vr_holidu",
+  "domain": "holidu.de",
+  "address": "La Zaidía, 46009 Valencia, España",
+  "reviews": 6,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 144,
+  "title": "Ohanna | Taller Mecánico",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Av. del Primat Reig, 27, Rascanya, 46019 València, Valencia, España",
+  "reviews": 48,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 145,
+  "title": "Talleres Epamotor",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Doctor Machí, 2, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 31,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 146,
+  "title": "Taller Álvarez",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Avinguda de Campanar, 120, Campanar, 46015 València, Valencia, España",
+  "reviews": 35,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 147,
+  "title": "Taller Oficial Ferrari | QUADIS Gallery",
+  "category": "Taller de automóviles",
+  "website": "https://www.quadis.es/",
+  "domain": "quadis.es",
+  "address": "Av. del Mestre Rodrigo, 50, A, Campanar, 46035 València, Valencia, España",
+  "reviews": 2,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 148,
+  "title": "Neksus: Telefonía y móviles",
+  "category": "Tienda de móviles",
+  "website": "https://tiendasneksus.es/tiendas/neksus-calle-emilio-baro-38-valencia",
+  "domain": "tiendasneksus.es",
+  "address": "Carrer d'Emili Baró, 38, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 426,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 149,
+  "title": "Talleres Checar",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://cubesa.blogspot.com/",
+  "domain": "cubesa.blogspot.com",
+  "address": "Av. de Burjassot, 257, Benicalap, 46015 València, Valencia, España",
+  "reviews": 44,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 150,
+  "title": "Talleres Ohanna 2",
+  "category": "Taller mecánico",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Sant Vicent de Paül, 29, bajo, Rascaña, 46019 València, Valencia, España",
+  "reviews": 9,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 151,
+  "title": "INSTALADOR AIRE ACONDICIONADO",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://www.electricistavalencia.com/servicios/aire-acondicionado",
+  "domain": "electricistavalencia.com",
+  "address": "",
+  "reviews": 0,
+  "excluded": null,
+  "score": 47.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 0.0
+  }
+ },
+ {
+  "idx": 152,
+  "title": "Talleres Santiago Automoción",
+  "category": "Taller mecánico",
+  "website": "https://cubesa.blogspot.com/",
+  "domain": "cubesa.blogspot.com",
+  "address": "C. dels Plàtans, 32, Benicalap, 46025 València, Valencia, España",
+  "reviews": 84,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 153,
+  "title": "Taller Coches Jovima Instalación GLP Valencia",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://www.eurotaller.com/taller/1328/talleres-jovima",
+  "domain": "eurotaller.com",
+  "address": "C/ de Cavite, 183, B Dcha, Poblados Marítimos, 46011 València, Valencia, España",
+  "reviews": 136,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 154,
+  "title": "PINAUTO",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.pinauto.net/",
+  "domain": "pinauto.net",
+  "address": "Carrer de Marcel·lí Giner, 10, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 369,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 155,
+  "title": "AUTOYA – Taller mecánico Peset Aleixandre",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://autoya.es/?utm_source=googlemaps&utm_medium=organic&utm_campaign=gbp&utm_content=peset",
+  "domain": "autoya.es",
+  "address": "Av. del Dr. Peset Aleixandre, 49, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 209,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 156,
+  "title": "MediaMarkt",
+  "category": "Tienda de electrónica",
+  "website": "https://www.mediamarkt.es/?utm_source=google-places&utm_medium=seo-places-link&utm_campaign=rt_google-places_consideration_nsp_968_extended-network",
+  "domain": "mediamarkt.es",
+  "address": "Av. de les Corts Valencianes, 35, Campanar, 46015 València, Valencia, España",
+  "reviews": 8841,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 157,
+  "title": "Taller tajo",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Riu Tajo, 28, Poblats Marítims, 46011 València, Valencia, España",
+  "reviews": 40,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 158,
+  "title": "lavadero de coches y taller de mecánica - AutoBana",
+  "category": "Servicio de lavado de coches",
+  "website": "http://autobanataller.com/",
+  "domain": "autobanataller.com",
+  "address": "Av. del Dr. Peset Aleixandre, 127, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 139,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 159,
+  "title": "Talleres Fco.Jose Chiquero| Taller Chapa y Pintura",
+  "category": "Taller de chapa y pintura",
+  "website": "http://www.talleresapariciovalencia.es/",
+  "domain": "talleresapariciovalencia.es",
+  "address": "C de Sant Domènec Savio, 71, Rascanya, 46019 València, Valencia, España",
+  "reviews": 123,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 160,
+  "title": "Neumáticos Daniel Marín",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Avinguda de la Constitució, 2, y 6, La Zaidía, 46009 València, Valencia, España",
+  "reviews": 122,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 161,
+  "title": "Apartamento 'Torres De Quart Tu Casa' con balcón, Wi-Fi y aire acondicionado",
+  "category": "Alojamiento",
+  "website": "https://www.holidu.de/d/61166790?ref_source=google_vr&utm_source=google_vr_holidu",
+  "domain": "holidu.de",
+  "address": "Extramurs, 46008 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 162,
+  "title": "Apartamento 'Mestalla Flats Rut' con terraza privada, Wi-Fi y aire acondicionado",
+  "category": "Alojamiento",
+  "website": "https://www.holidu.de/d/65888708?ref_source=google_vr&utm_source=google_vr_holidu",
+  "domain": "holidu.de",
+  "address": "El Llano del Real, 46010 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 163,
+  "title": "Apartamento estudio '2º In The Old Center' con balcón, Wi-Fi y aire acondicionado.",
+  "category": "Alojamiento",
+  "website": "https://www.holidu.de/d/56542424?ref_source=google_vr&utm_source=google_vr_eb",
+  "domain": "holidu.de",
+  "address": "Ciutat Vella, 46003 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 164,
+  "title": "Apartamento estudio 'Loft 1º con Azotea' con balcón, Wi-Fi y aire acondicionado",
+  "category": "Alojamiento",
+  "website": "https://br.bluepillow.com/search/67a4b7d3064d51dcdc8dee14?dest=bpex&cat=Apartment&lat=39.47977&lng=-0.37999&language=pt",
+  "domain": "br.bluepillow.com",
+  "address": "Ciutat Vella, 46003 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 165,
+  "title": "Estudio 'Loft 1º con Terraza en la Azotea' con Wi-Fi y Aire Acondicionado",
+  "category": "Alojamiento",
+  "website": "",
+  "domain": "",
+  "address": "Ciutat Vella, 46003 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 166,
+  "title": "Electrofiel | Servicio Técnico",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://g.co/kgs/zVTuCFw",
+  "domain": "g.co",
+  "address": "C de Sant Domènec Savio, 79, Rascanya, 46019 València, Valencia, España",
+  "reviews": 226,
+  "excluded": null,
+  "score": 71.3,
+  "breakdown": {
+   "A_resenas": 33.3,
+   "B_web": 6.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 167,
+  "title": "AUTOFECAR S.L.U.",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.autofecar.com/",
+  "domain": "autofecar.com",
+  "address": "C/ del Pare Urbano, 10, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 99,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 168,
+  "title": "Electricidad Gallardo",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://electricistasvalencia.eu/",
+  "domain": "electricistasvalencia.eu",
+  "address": "Carrer del Navili, 5, Campanar, 46009 València, Valencia, España",
+  "reviews": 258,
+  "excluded": null,
+  "score": 83.1,
+  "breakdown": {
+   "A_resenas": 34.1,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 169,
+  "title": "AUTOBRILLO S.L.",
+  "category": "Taller de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C/ de José Grollo, 40, BJ, Benicalap, 46025 València, Valencia, España",
+  "reviews": 71,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 170,
+  "title": "Taller mecanico | Reprogramacion Centralitas | Cesar Argarañaz",
+  "category": "Taller de automóviles",
+  "website": "https://wa.link/l5gk59",
+  "domain": "wa.link",
+  "address": "C/ de Reus, 4, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 6,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 171,
+  "title": "Talleres Cristóbal S.L.",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.tallerescristobal.com/",
+  "domain": "tallerescristobal.com",
+  "address": "C/ de Polo y Peyrolón, 46, El Pla del Real, 46021 València, Valencia, España",
+  "reviews": 8,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 172,
+  "title": "Taller Vidauto",
+  "category": "Taller de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de l'Arquitecte Rodríguez, 21, Rascanya, 46019 València, Valencia, España",
+  "reviews": 33,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 173,
+  "title": "Talleres Aparicio autochiquero | Valencia Taller de mecánica rápida | Chapa y pintura.",
+  "category": "Taller de chapa y pintura",
+  "website": "https://talleresapariciovalencia.es/",
+  "domain": "talleresapariciovalencia.es",
+  "address": "C/ Sant Josep, 42, 46016 Tavernes Blanques, Valencia, España",
+  "reviews": 370,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 174,
+  "title": "TolDim Taller",
+  "category": "Taller de automóviles",
+  "website": "https://toldim.com/",
+  "domain": "toldim.com",
+  "address": "Av. del Mestre Rodrigo, 42, bajo, Campanar, 46015 València, Valencia, España",
+  "reviews": 130,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 175,
+  "title": "Talleres Tatay",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://cubesa.blogspot.com/",
+  "domain": "cubesa.blogspot.com",
+  "address": "Carrer del Monestir de Poblet, 4, Campanar, 46015 València, Valencia, España",
+  "reviews": 69,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 176,
+  "title": "Mecánica general, chapa y pintura Talleres Paul",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Sant Vicent de Paül, 23, Rascanya, 46019 València, Valencia, España",
+  "reviews": 3,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 177,
+  "title": "Talleres León",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "C. Arzobispo Fabian i Fuero, 33, La Zaidía, 46009 València, Valencia, España",
+  "reviews": 78,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 178,
+  "title": "AUTOYA – Taller mecánico Doctor Olóriz",
+  "category": "Taller de reparación de automóviles",
+  "website": "https://autoya.es/?utm_source=googlemaps&utm_medium=organic&utm_campaign=gbp&utm_content=oloriz",
+  "domain": "autoya.es",
+  "address": "C/ del Doctor Olóriz, 3, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 146,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 179,
+  "title": "Furgotur Diesel",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Alegret, 13, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 14,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 180,
+  "title": "Talleres Azarauto",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.cgacarservice.com/",
+  "domain": "cgacarservice.com",
+  "address": "Carrer de González Martí, 5, Extramurs, 46008 València, Valencia, España",
+  "reviews": 131,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 181,
+  "title": "Talleres Pons y Polo",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Camí de Montcada, 205, Pobles del Nord, 46025 València, Valencia, España",
+  "reviews": 65,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 182,
+  "title": "Talleres Villena Automoción",
+  "category": "Taller de reparación de automóviles",
+  "website": "",
+  "domain": "",
+  "address": "Av. de Burjassot, 251, Benicalap, 46015 València, Valencia, España",
+  "reviews": 37,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 183,
+  "title": "TALLERES ARVAMOTOR",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.arvamotor.com/",
+  "domain": "arvamotor.com",
+  "address": "C. de Marie Curie (Científica), 13, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 32,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 184,
+  "title": "Bolauto",
+  "category": "Taller mecánico",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Masquefa, 43, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 144,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 185,
+  "title": "INSTALACIÓNES ELÉCTRICAS AEG",
+  "category": "Electricista",
+  "website": "https://www.facebook.com/profile.php?id=100083338956967",
+  "domain": "facebook.com",
+  "address": "C/ de la Democràcia, 5 631 07, 44 88, L'Olivereta, 46018 València, Valencia, España",
+  "reviews": 114,
+  "excluded": null,
+  "score": 53.1,
+  "breakdown": {
+   "A_resenas": 29.1,
+   "B_web": 6.0,
+   "C_categoria": 9.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 186,
+  "title": "Carbonell Instaladores Eléctricos",
+  "category": "Electricista",
+  "website": "",
+  "domain": "",
+  "address": "C/ del Pintor Matarana, 17, bajo 2, Benicalap, 46025 València, Valencia, España",
+  "reviews": 14,
+  "excluded": null,
+  "score": 31.6,
+  "breakdown": {
+   "A_resenas": 16.6,
+   "B_web": 0.0,
+   "C_categoria": 9.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 187,
+  "title": "Electrotecnia cosmat s.l",
+  "category": "Electricista",
+  "website": "http://www.cosmat.es/",
+  "domain": "cosmat.es",
+  "address": "Carrer de Miguel Galan Mestre, 8, Benicalap, 46025 València, Valencia, España",
+  "reviews": 11,
+  "excluded": null,
+  "score": 51.2,
+  "breakdown": {
+   "A_resenas": 15.2,
+   "B_web": 20.0,
+   "C_categoria": 9.0,
+   "D_servicios": 0.0,
+   "_servicios_detectados": [],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 188,
+  "title": "CLIMA&SERVICIOS",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Literat Azorín, 41, L'Eixample, 46005 València, Valencia, España",
+  "reviews": 8,
+  "excluded": null,
+  "score": 44.5,
+  "breakdown": {
+   "A_resenas": 13.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 189,
+  "title": "Airfutur",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.airfutur.com/",
+  "domain": "airfutur.com",
+  "address": "C. Juan Ramón Jiménez, 61, Bajo, Quatre Carreres, 46026 València, Valencia, España",
+  "reviews": 48,
+  "excluded": null,
+  "score": 71.9,
+  "breakdown": {
+   "A_resenas": 23.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 190,
+  "title": "Naper Climatización",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://naper.pro/",
+  "domain": "naper.pro",
+  "address": "C. de Crevillent, 6, Algirós, 46022 València, Valencia, España",
+  "reviews": 105,
+  "excluded": null,
+  "score": 77.6,
+  "breakdown": {
+   "A_resenas": 28.6,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 191,
+  "title": "Aircoval",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://www.aircovalvalencia.es/",
+  "domain": "aircovalvalencia.es",
+  "address": "C/ del Duc de Gaeta, 56, Camins al Grau, 46022 València, Valencia, España",
+  "reviews": 84,
+  "excluded": null,
+  "score": 75.2,
+  "breakdown": {
+   "A_resenas": 27.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 192,
+  "title": "CMR",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer d'Ángel Villena, 10, Bajo, Quatre Carreres, 46013 València, Valencia, España",
+  "reviews": 1,
+  "excluded": null,
+  "score": 30.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 193,
+  "title": "Gia Frío",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "http://www.recambiosgia.com/",
+  "domain": "recambiosgia.com",
+  "address": "DIPUTADO ISIDRO ESCANDELL, 2, Ciutat Vella, 46026 València, Valencia, España",
+  "reviews": 13,
+  "excluded": null,
+  "score": 65.2,
+  "breakdown": {
+   "A_resenas": 16.2,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 194,
+  "title": "JC Climatización",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Joan Baptista Perales, 18, B, Camins al Grau, 46022 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 34.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 195,
+  "title": "Artic Refrigeració - Cámaras frigoríficas y aire acondicionado",
+  "category": "Empresa de climatización",
+  "website": "https://articrefrigeracio.es/",
+  "domain": "articrefrigeracio.es",
+  "address": "C/ de Llorenç Salom, 5, Jesús, 46007 València, Valencia, España",
+  "reviews": 81,
+  "excluded": null,
+  "score": 79.0,
+  "breakdown": {
+   "A_resenas": 27.0,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "refrigeracion_comercial"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 196,
+  "title": "CLIMAX 360º",
+  "category": "Empresa de climatización",
+  "website": "https://climax360.es/",
+  "domain": "climax360.es",
+  "address": "Calle de Joaquín Benlloch, 33, Valencia, España 3, 46006 València, Valencia, España",
+  "reviews": 12,
+  "excluded": null,
+  "score": 61.7,
+  "breakdown": {
+   "A_resenas": 15.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 197,
+  "title": "Trane Aire Acondicionado",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. Esparraguera, Quatre Carreres, 46026 València, Valencia, España",
+  "reviews": 1,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 198,
+  "title": "Clima Cool",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://climacoolvalencia.com/",
+  "domain": "climacoolvalencia.com",
+  "address": "Camí d'Alabau, 12, Pobles del Sud, 46026 València, Valencia, España",
+  "reviews": 17,
+  "excluded": null,
+  "score": 64.7,
+  "breakdown": {
+   "A_resenas": 17.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 199,
+  "title": "Mi Electro - Mateo Sánchez",
+  "category": "Tienda de electrodomésticos",
+  "website": "https://www.mielectro.es/",
+  "domain": "mielectro.es",
+  "address": "Av. de Burjassot, 200, Benicalap, 46025 València, Valencia, España",
+  "reviews": 410,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 200,
+  "title": "urgencias instalaciones eléctricas.d",
+  "category": "Servicio de instalación eléctrica",
+  "website": "",
+  "domain": "",
+  "address": "Av. de Blasco Ibáñez, 95, Algirós, 46022 València, Valencia, España",
+  "reviews": 7,
+  "excluded": null,
+  "score": 30.8,
+  "breakdown": {
+   "A_resenas": 12.8,
+   "B_web": 0.0,
+   "C_categoria": 8.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 201,
+  "title": "Red Solutions Redes De Protecciones",
+  "category": "Carpintería metálica y de aluminio",
+  "website": "http://www.redsolutions.es/",
+  "domain": "redsolutions.es",
+  "address": "C/ d'Alboraia, 42, La Saïdia, 46010 València, Valencia, España",
+  "reviews": 59,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 202,
+  "title": "Hoco Estudio Valencia",
+  "category": "Servicio de instalación de ventanas",
+  "website": "https://hoco.es/ventanas-pvc-en-valencia/",
+  "domain": "hoco.es",
+  "address": "C/ de la Vall de la Ballestera, 26, Campanar, 46015 València, Valencia, España",
+  "reviews": 116,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 203,
+  "title": "Zinak",
+  "category": "Servicio de seguridad",
+  "website": "http://zinak.es/",
+  "domain": "zinak.es",
+  "address": "C. del Pare Ferrís, 12, Pta 6, Campanar, 46009 València, Valencia, España",
+  "reviews": 27,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 204,
+  "title": "Clival S.L.",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.clival-sl.com/",
+  "domain": "clival-sl.com",
+  "address": "Carrer del Pintor Gisbert, 21, L'Eixample, 46004 València, Valencia, España",
+  "reviews": 8,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 205,
+  "title": "Clima Jover",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.climajover.com/",
+  "domain": "climajover.com",
+  "address": "Camí Nou de Picanya, 43, Bajo, Patraix, 46014 València, Valencia, España",
+  "reviews": 32,
+  "excluded": null,
+  "score": 68.4,
+  "breakdown": {
+   "A_resenas": 21.4,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 206,
+  "title": "TECNOAIR",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.tecnoair.es/",
+  "domain": "tecnoair.es",
+  "address": "C.de Montesa, 40, Patraix, 46017 València, Valencia, España",
+  "reviews": 17,
+  "excluded": null,
+  "score": 64.7,
+  "breakdown": {
+   "A_resenas": 17.7,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 207,
+  "title": "ClimallumValencia",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.climallum.es/",
+  "domain": "climallum.es",
+  "address": "Carrer del Baró de Patraix, 19, bajo izquierda, Patraix, 46018 València, Valencia, España",
+  "reviews": 8,
+  "excluded": null,
+  "score": 59.5,
+  "breakdown": {
+   "A_resenas": 13.5,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 208,
+  "title": "Arimax Climatización",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://arimaxclimatizacion.es/",
+  "domain": "arimaxclimatizacion.es",
+  "address": "C. de l'Arquitecte Segura de Lago, 34, Patraix, 46014 València, Valencia, España",
+  "reviews": 54,
+  "excluded": null,
+  "score": 72.6,
+  "breakdown": {
+   "A_resenas": 24.6,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 209,
+  "title": "TurisFons",
+  "category": "Proveedor de sistemas de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ del 3 d'Abril de 1979, Camins al Grau, 46023 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 28.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 14.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 210,
+  "title": "Reparación Caldera Valencia",
+  "category": "Empresa de climatización",
+  "website": "https://reparacioncalderasvalencia.eu/",
+  "domain": "reparacioncalderasvalencia.eu",
+  "address": "C. del Duque de Calabria, 13, Ensanche, 46005 València, Valencia, España",
+  "reviews": 39,
+  "excluded": null,
+  "score": 77.6,
+  "breakdown": {
+   "A_resenas": 22.6,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 12.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion",
+    "calefaccion"
+   ],
+   "E_estructura": 3.0
+  }
+ },
+ {
+  "idx": 211,
+  "title": "Friconter Valencia",
+  "category": "Empresa de climatización",
+  "website": "https://friconter.es/",
+  "domain": "friconter.es",
+  "address": "C. de Xiva, 19, Patraix, 46018 València, Valencia, España",
+  "reviews": 13,
+  "excluded": null,
+  "score": 62.2,
+  "breakdown": {
+   "A_resenas": 16.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 212,
+  "title": "climatizaciones moreno - aire acondicionado",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Pius XI, 13, Patraix, 46007 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 26.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 213,
+  "title": "Iberotecnica del Clima SL",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "C. d'Olimpia Arozena Torres, 32, L'Olivereta, 46018 València, Valencia, España",
+  "reviews": 13,
+  "excluded": null,
+  "score": 47.2,
+  "breakdown": {
+   "A_resenas": 16.2,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 214,
+  "title": "Climatización Electro - Vima Refrigeración",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Mestre Valls, 39, Camins al Grau, 46022 València, Valencia, España",
+  "reviews": 9,
+  "excluded": null,
+  "score": 44.1,
+  "breakdown": {
+   "A_resenas": 14.1,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "refrigeracion_comercial"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 215,
+  "title": "Antonio Grimaldos S.L.",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://grimaldosclimatizacion.es/",
+  "domain": "grimaldosclimatizacion.es",
+  "address": "C/ de Montitxelvo, 13, Quatre Carreres, 46006 València, Valencia, España",
+  "reviews": 41,
+  "excluded": null,
+  "score": 75.9,
+  "breakdown": {
+   "A_resenas": 22.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 9.0
+  }
+ },
+ {
+  "idx": 216,
+  "title": "Acval Clima",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Av. del Primer de Maig, 22, Jesús, 46017 València, Valencia, España",
+  "reviews": 3,
+  "excluded": null,
+  "score": 34.5,
+  "breakdown": {
+   "A_resenas": 8.5,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 217,
+  "title": "Vilfer",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.vilfer.es/",
+  "domain": "vilfer.es",
+  "address": "Carrer de Sant Jacint Castanyeda, 19, Quatre Carreres, 46006 València, Valencia, España",
+  "reviews": 13,
+  "excluded": null,
+  "score": 62.2,
+  "breakdown": {
+   "A_resenas": 16.2,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 218,
+  "title": "Técnico electricista y aires acondicionados Eder",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Poeta Mas i Ros, 5, Algirós, 46021 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 29.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 0.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 219,
+  "title": "Mi Electro - Vicente Noverges",
+  "category": "Tienda aire acondicionado",
+  "website": "https://tiendas.mielectro.es/",
+  "domain": "tiendas.mielectro.es",
+  "address": "C. del Mestre Aguilar, 14, L'Eixample, 46006 València, Valencia, España",
+  "reviews": 224,
+  "excluded": "cadena/franquicia o portal, no PYME de servicios",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 220,
+  "title": "Electroclima González, S.L.",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "C/ de Pere III el Gran, 19, L'Eixample, 46005 València, Valencia, España",
+  "reviews": 4,
+  "excluded": null,
+  "score": 40.9,
+  "breakdown": {
+   "A_resenas": 9.9,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 7.0
+  }
+ },
+ {
+  "idx": 221,
+  "title": "Vabby",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://vabby.es/",
+  "domain": "vabby.es",
+  "address": "C/ de les Barques, 2, 2nd floor, Ciutat Vella, 46002 València, Valencia, España",
+  "reviews": 4,
+  "excluded": null,
+  "score": 55.9,
+  "breakdown": {
+   "A_resenas": 9.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 222,
+  "title": "Servicio Técnico Mitsubishi Valencia - G&E",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "https://serviciodereparacion.es/servicio-tecnico-mitsubishi-electric-valencia/",
+  "domain": "serviciodereparacion.es",
+  "address": "Carrer de Joaquín Benlloch, 65, bajo, Quatre Carreres, 46026 València, Valencia, España",
+  "reviews": 54,
+  "excluded": null,
+  "score": 75.6,
+  "breakdown": {
+   "A_resenas": 24.6,
+   "B_web": 20.0,
+   "C_categoria": 19.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 223,
+  "title": "Pascual Martí, Valencia",
+  "category": "Tienda aire acondicionado",
+  "website": "https://www.pascualmarti.es/tiendas/tienda-calle-cuenca/",
+  "domain": "pascualmarti.es",
+  "address": "C/ de Conca, 82 y 84, Patraix, 46007 València, Valencia, España",
+  "reviews": 1438,
+  "excluded": null,
+  "score": 75.0,
+  "breakdown": {
+   "A_resenas": 35.0,
+   "B_web": 20.0,
+   "C_categoria": 11.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 5.0
+  }
+ },
+ {
+  "idx": 224,
+  "title": "Innova Climate Services ICS",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Calle José, C. de Juan Reus Parra, 8, Poblados del Sur, 46017 València, Valencia, España",
+  "reviews": 12,
+  "excluded": null,
+  "score": 41.7,
+  "breakdown": {
+   "A_resenas": 15.7,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 225,
+  "title": "Humifred Santacreu, S.L",
+  "category": "Contratista de aire acondicionado",
+  "website": "http://www.humifred.com/",
+  "domain": "humifred.com",
+  "address": "Pl. del Perú, 3, Quatre Carreres, 46026 València, Valencia, España",
+  "reviews": 16,
+  "excluded": null,
+  "score": 73.4,
+  "breakdown": {
+   "A_resenas": 17.4,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "ventilacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 226,
+  "title": "Kide",
+  "category": "Servicio de reparación de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Av. del Doctor Tomàs Sala, 49, Jesús, 46017 València, Valencia, España",
+  "reviews": 1,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 227,
+  "title": "Servicio técnico de aire acondicionado Baxi Samsung",
+  "category": "",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Sant Vicent Màrtir, 85, Extramurs, 46007 València, Valencia, España",
+  "reviews": 0,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 228,
+  "title": "Climatizacion Patraix Caldera y aire acondicionado",
+  "category": "Empresa de climatización",
+  "website": "",
+  "domain": "",
+  "address": "Carrer del Baró de Patraix, 16, Patraix, 46018 València, Valencia, España",
+  "reviews": 1,
+  "excluded": null,
+  "score": 34.3,
+  "breakdown": {
+   "A_resenas": 4.3,
+   "B_web": 0.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "calefaccion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 229,
+  "title": "Piso recien reformado con aire acondicionado",
+  "category": "Cámara",
+  "website": "https://br.bluepillow.com/search/62de8878de4e4eebed121eaf?dest=ago&cat=Vacation+rental+(other)&lat=39.4545&lng=-0.38657&language=pt",
+  "domain": "br.bluepillow.com",
+  "address": "Jesús, 46007 Valencia, España",
+  "reviews": 0,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 230,
+  "title": "Reparacion aire acondicionado Valencia unida",
+  "category": "Contratista de aire acondicionado",
+  "website": "https://www.reparacionesvalencia.com.es/Mitsubishi.html",
+  "domain": "reparacionesvalencia.com.es",
+  "address": "Av. d'Ausiàs March, 14D, Quatre Carreres, 46004 València, Valencia, España",
+  "reviews": 4,
+  "excluded": null,
+  "score": 59.9,
+  "breakdown": {
+   "A_resenas": 9.9,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "reparacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 231,
+  "title": "Basic-Fit",
+  "category": "Gimnasio",
+  "website": "https://www.basic-fit.com/es-es/clubs/basic-fit-valencia-plaza-de-fray-luis-colomer-d0a886a93b8542d8ba7656d1f0f27ba5.html?utm_medium=yext&utm_source=gmb",
+  "domain": "basic-fit.com",
+  "address": "Plaça de Fra Lluís Colomer, 4, Algirós, 46021 València, Valencia, España",
+  "reviews": 867,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 232,
+  "title": "Electricidad Checa",
+  "category": "Compañía eléctrica",
+  "website": "http://www.electricidadcheca.com/",
+  "domain": "electricidadcheca.com",
+  "address": "C/ dels Germans Villalonga, 3, Benimaclet, 46020 València, Valencia, España",
+  "reviews": 42,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 233,
+  "title": "Club Valenciano de Natación",
+  "category": "Club de natación",
+  "website": "https://clubvalencianodenatacion.es/",
+  "domain": "clubvalencianodenatacion.es",
+  "address": "Camino Viejo de Carpesa a Moncada, sn, 46025 València, Valencia, España",
+  "reviews": 690,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 234,
+  "title": "Gimnasio Deportivo Okinawa Valencia",
+  "category": "Gimnasio",
+  "website": "http://www.okinawa.es/",
+  "domain": "okinawa.es",
+  "address": "C. del Pare Ferrís, 28, Campanar, 46009 València, Valencia, España",
+  "reviews": 277,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 235,
+  "title": "VLC Fitness",
+  "category": "Centro deportivo",
+  "website": "http://www.crossfitvlc.com/",
+  "domain": "crossfitvlc.com",
+  "address": "Av. del Mestre Rodrigo, 97, Campanar, 46015 València, Valencia, España",
+  "reviews": 353,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 236,
+  "title": "Fitness Park Valencia - Nou Mestalla",
+  "category": "Gimnasio",
+  "website": "http://fitnesspark.es/club/valencia-nou-mestalla/?utm_source=GMB&utm_medium=organic",
+  "domain": "fitnesspark.es",
+  "address": "C. del Doctor Nicasi Benlloch, 29, Benicalap, 46015 València, Valencia, España",
+  "reviews": 299,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 237,
+  "title": "Escayolas Y Pladur Pardo",
+  "category": "Empresa de escayolas",
+  "website": "http://escayolasypladurpardo.com/",
+  "domain": "escayolasypladurpardo.com",
+  "address": "Carrer del Garbí, 19, BAJO, Benicalap, 46015 València, Valencia, España",
+  "reviews": 134,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 238,
+  "title": "Gimnasio VivaGym Pio XII",
+  "category": "Gimnasio",
+  "website": "https://www.vivagym.com/es-es/gimnasios/valencia/capital/pio-xii/?utm_campaign=250922_es_gmb_conversion_generic_pio-xii&utm_medium=organic&utm_source=gmb",
+  "domain": "vivagym.com",
+  "address": "Plaça del Pare Domènech, 5, Campanar, 46009 València, Valencia, España",
+  "reviews": 398,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 239,
+  "title": "Cerramientos Monteval",
+  "category": "Proveedor de ventanas PVC",
+  "website": "https://www.cerramientos-valencia.com/es/",
+  "domain": "cerramientos-valencia.com",
+  "address": "Avinguda del Cardenal Benlloch, 104, Bajo Derecha, Algirós, 46021 València, Valencia, España",
+  "reviews": 30,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 240,
+  "title": "Polideportivo El Carmen | Piscina - Gimnasio",
+  "category": "Polideportivo",
+  "website": "http://www.fdmvalencia.es/es/instalaciones/poliesportiu-el-carmen-2/",
+  "domain": "fdmvalencia.es",
+  "address": "Carrer del Dr. Chiarri, 7, Ciutat Vella, 46003 València, Valencia, España",
+  "reviews": 435,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 241,
+  "title": "CLIMA SOLUCIONES VALENCIA S.L",
+  "category": "Empresa de climatización",
+  "website": "https://climasolucionesvalencia.com/",
+  "domain": "climasolucionesvalencia.com",
+  "address": "C/ de la Fonteta de Sant Lluís, 45, bajo, Quatre Carreres, 46006 València, Valencia, España",
+  "reviews": 34,
+  "excluded": null,
+  "score": 73.8,
+  "breakdown": {
+   "A_resenas": 21.8,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 8.0
+  }
+ },
+ {
+  "idx": 242,
+  "title": "SALVADOR ESCODA",
+  "category": "Empresa de climatización",
+  "website": "https://www.salvadorescoda.com/",
+  "domain": "salvadorescoda.com",
+  "address": "Carrer Rio Eresma, s/n, Quatre Carreres, 46026 València, Valencia, España",
+  "reviews": 166,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 243,
+  "title": "Extracciones Turia",
+  "category": "Empresa de climatización",
+  "website": "https://extraccionesturia.com/",
+  "domain": "extraccionesturia.com",
+  "address": "Carrer de l'Humanista Furió, 35, Algirós, 46022 València, Valencia, España",
+  "reviews": 0,
+  "excluded": null,
+  "score": 50.0,
+  "breakdown": {
+   "A_resenas": 0.0,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 8.0,
+   "_servicios_detectados": [
+    "instalacion",
+    "ventilacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 244,
+  "title": "RUZAFA CENTRO AIRE ACONDICIONADO WiFi",
+  "category": "Departamento",
+  "website": "",
+  "domain": "",
+  "address": "Ensanche, 46006 Valencia, España",
+  "reviews": 16,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 245,
+  "title": "Servicio técnico Baxi Samsung aire acondicionado",
+  "category": "Contratista de aire acondicionado",
+  "website": "",
+  "domain": "",
+  "address": "Carrer de Sant Vicent Màrtir, 85, Extramurs, 46007 València, Valencia, España",
+  "reviews": 9,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 246,
+  "title": "Cámaras Frigoríficas Valencia - Isotermia",
+  "category": "Empresa de aislamientos",
+  "website": "http://www.camarasfrigorificas.es/",
+  "domain": "camarasfrigorificas.es",
+  "address": "Carrer del Mestre Valls, 39, Camins al Grau, 46022 València, Valencia, España",
+  "reviews": 2,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 247,
+  "title": "Aire acond coche VILATA S.L.",
+  "category": "Taller de reparación de automóviles",
+  "website": "http://www.boschvilata.com/",
+  "domain": "boschvilata.com",
+  "address": "C/ dels Sants Just i Pastor, 17, Algirós, 46021 València, Valencia, España",
+  "reviews": 306,
+  "excluded": "categoria fuera de ICP",
+  "score": 0.0,
+  "breakdown": {}
+ },
+ {
+  "idx": 248,
+  "title": "Bon Confort",
+  "category": "Empresa de climatización",
+  "website": "http://bon-confort.com/",
+  "domain": "bon-confort.com",
+  "address": "C/ d'Isaac Peral, 11, Poblats Marítims, 46024 València, Valencia, España",
+  "reviews": 5,
+  "excluded": null,
+  "score": 57.0,
+  "breakdown": {
+   "A_resenas": 11.0,
+   "B_web": 20.0,
+   "C_categoria": 20.0,
+   "D_servicios": 4.0,
+   "_servicios_detectados": [
+    "instalacion"
+   ],
+   "E_estructura": 2.0
+  }
+ },
+ {
+  "idx": 249,
+  "title": "agullófélix | ejecución de obra",
+  "category": "Reformas",
+  "website": "http://www.agullofelix.es/",
+  "domain": "agullofelix.es",
+  "address": "C/ de Maximilià Thous, 4D, La Saïdia, 46009 València, Valencia, España",
+  "reviews": 54,
+  "excluded": null,
+  "score": 55.6,
+  "breakdown": {
+   "A_resenas": 24.6,
+   "B_web": 20.0,
+   "C_categoria": 7.0,
+   "D_servicios": 0.0,
+   "_servicios_detectados": [],
+   "E_estructura": 4.0
+  }
+ },
+ {
+  "idx": 250,
+  "title": "Frio y Caliente: Tienda de Climatización",
+  "category": "Empresa de climatización",
+  "website": "https://frioycaliente.es/",
+  "domain": "frioycaliente.es",
+  "address": "Carrer de Ramiro de Maeztu, 42, Camins al Grau, 46022 València, Valencia, España",
+  "reviews": 2,
+  "excluded": "fabricante/mayorista/recambios/no-ICP",
+  "score": 0.0,
+  "breakdown": {}
+ }
+]
